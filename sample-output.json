@@ -1,0 +1,101 @@
+[
+  {
+    "jobTitle": "Full Stack Engineer - TypeScript",
+    "companyName": "MoonPay",
+    "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQHlaph_qWt7MA/company-logo_100_100/company-logo_100_100/0/1702140517386/moonpay_logo",
+    "jobLocation": "Cracow, Małopolskie, Poland",
+    "postedTimeAgo": "6 days ago",
+    "numApplicantsCaption": "33 applicants",
+    "description": "About MoonPay 🌖💸 Hi, we're MoonPay. We're here to onboard the world to Web3. Our engineering discipline builds the technology that enables MoonPay to learn quickly and scale easily. We organize in small cross-functional squads of 4-6 engineers...",
+    "criteria": [
+      { "name": "Seniority level", "value": "Not Applicable" },
+      { "name": "Employment type", "value": "Full-time" },
+      { "name": "Job function", "value": "Engineering and Information Technology" },
+      { "name": "Industries", "value": "Software Development" }
+    ],
+    "similarJobs": [
+      {
+        "jobLink": "https://pl.linkedin.com/jobs/view/full-stack-engineer-at-tst-group-4158615972",
+        "jobName": "Full Stack Engineer",
+        "companyName": "TST Group",
+        "jobLocation": "Cracow, Małopolskie, Poland",
+        "postedTimeAgo": "1 week ago"
+      }
+    ],
+    "peopleAlsoViewed": [
+      {
+        "jobLink": "https://pl.linkedin.com/jobs/view/software-test-engineer-i-at-qualtrics-4151543017",
+        "jobTitle": "Software Test Engineer I",
+        "companyName": "Qualtrics",
+        "jobLocation": "Cracow, Małopolskie, Poland",
+        "postedTimeAgo": "2 weeks ago"
+      }
+    ]
+  },
+  {
+    "jobTitle": "Senior Backend Engineer - Node.js",
+    "companyName": "Stripe",
+    "companyLogo": "https://media.licdn.com/dms/image/stripe_logo_example",
+    "jobLocation": "London, England, United Kingdom",
+    "postedTimeAgo": "2 days ago",
+    "numApplicantsCaption": "87 applicants",
+    "description": "Stripe is a financial infrastructure platform for businesses. Millions of companies — from the world's largest enterprises to the most ambitious startups — use Stripe to accept payments, grow their revenue, and accelerate new business opportunities...",
+    "criteria": [
+      { "name": "Seniority level", "value": "Mid-Senior level" },
+      { "name": "Employment type", "value": "Full-time" },
+      { "name": "Job function", "value": "Engineering and Information Technology" },
+      { "name": "Industries", "value": "Technology, Information and Internet" }
+    ],
+    "similarJobs": [
+      {
+        "jobLink": "https://www.linkedin.com/jobs/view/backend-engineer-at-braintree-4123456789",
+        "jobName": "Backend Engineer",
+        "companyName": "Braintree",
+        "jobLocation": "London, England, United Kingdom",
+        "postedTimeAgo": "3 days ago"
+      }
+    ],
+    "peopleAlsoViewed": [
+      {
+        "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-adyen-4098765432",
+        "jobTitle": "Software Engineer",
+        "companyName": "Adyen",
+        "jobLocation": "Amsterdam, North Holland, Netherlands",
+        "postedTimeAgo": "1 week ago"
+      }
+    ]
+  },
+  {
+    "jobTitle": "Data Engineer",
+    "companyName": "Spotify",
+    "companyLogo": "https://media.licdn.com/dms/image/spotify_logo_example",
+    "jobLocation": "Stockholm, Stockholm County, Sweden",
+    "postedTimeAgo": "1 week ago",
+    "numApplicantsCaption": "Over 200 applicants",
+    "description": "We are looking for a Data Engineer to join our Data Platform team. You'll work on building and maintaining scalable data pipelines that power Spotify's machine learning models and analytics dashboards...",
+    "criteria": [
+      { "name": "Seniority level", "value": "Associate" },
+      { "name": "Employment type", "value": "Full-time" },
+      { "name": "Job function", "value": "Information Technology" },
+      { "name": "Industries", "value": "Entertainment Providers" }
+    ],
+    "similarJobs": [
+      {
+        "jobLink": "https://www.linkedin.com/jobs/view/data-engineer-at-soundcloud-4112345678",
+        "jobName": "Data Engineer",
+        "companyName": "SoundCloud",
+        "jobLocation": "Berlin, Germany",
+        "postedTimeAgo": "5 days ago"
+      }
+    ],
+    "peopleAlsoViewed": [
+      {
+        "jobLink": "https://www.linkedin.com/jobs/view/analytics-engineer-at-klarna-4087654321",
+        "jobTitle": "Analytics Engineer",
+        "companyName": "Klarna",
+        "jobLocation": "Stockholm, Stockholm County, Sweden",
+        "postedTimeAgo": "2 weeks ago"
+      }
+    ]
+  }
+]
