@@ -2,6 +2,8 @@
 
 This example shows how to scrape LinkedIn job details in Node.js using the [LinkedIn Job Details Scraper](https://apify.com/piotrv1001/linkedin-job-details-scraper) actor on Apify. Instead of building a scraper from scratch, you call a ready-made actor via the Apify API client — no browser automation, no HTML parsing.
 
+![LinkedIn job details scraper results](linkedin_results.png)
+
 ## What this example does
 
 - Takes one or more LinkedIn job posting URLs as input
