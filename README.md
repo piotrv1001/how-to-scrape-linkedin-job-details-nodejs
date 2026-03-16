@@ -106,6 +106,7 @@ See [`sample-output.json`](./sample-output.json) for a full example. Each job re
 ## Related resources
 
 - [How to Scrape LinkedIn Job Listings and Hiring Companies](https://www.falconscrape.com/blog/how-to-scrape-linkedin-job-listings-and-hiring-companies) — blog post with a deeper dive into LinkedIn scraping
+- [How to Scrape LinkedIn Jobs with Apify](https://www.youtube.com/watch?v=f8e5J9Q07mw) — video tutorial on scraping LinkedIn jobs using Apify
 
 ## License
 
